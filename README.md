@@ -61,14 +61,18 @@ I focus on **cloud platforms, container orchestration, CI/CD pipelines, and infr
 ---
 
 ### 🔍 My Activities
-![HackerRank](https://img.shields.io/badge/HackerRank-Coding-darkgreen?style=flat)
-![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-black?style=flat)
-![StackOverflow](https://img.shields.io/badge/StackOverflow-QA-orange?style=flat)
+[![HackerRank](https://img.shields.io/badge/HackerRank-Coding-darkgreen?style=flat)](https://www.hackerrank.com/profile/xsakib964)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Problem_Solving-black?style=flat)](https://leetcode.com/u/xsakib964/)
+[![StackOverflow](https://img.shields.io/badge/StackOverflow-QA-orange?style=flat)](https://stackoverflow.com/users/17184390/sakib-x-hossain)
 
 ---
 
 
 ### 🤝 Connect With Me
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat)](https://www.linkedin.com/in/sakibhossian)
 
 ---
+
+
+### My Previous Github Account I just lost:
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-orange?style=flat)]([YOUR_NEW_LINK](https://github.com/SakibvHossain))
