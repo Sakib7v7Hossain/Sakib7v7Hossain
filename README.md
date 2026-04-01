@@ -1,7 +1,7 @@
 <h1 align="center">Nice to see you 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=Cloud+%26+DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+CI%2FCD+%7C+Infrastructure+as+Code">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100000&color=FFFFFF&center=true&vCenter=true&width=1200&lines=SRE+%26+DevOps+Engineer+%7C+AWS+%7C+Kubernetes+%7C+CI%2FCD+%7C+Infrastructure+as+Code">
 </p>
 
 ---
