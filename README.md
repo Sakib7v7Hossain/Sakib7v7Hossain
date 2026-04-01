@@ -7,7 +7,7 @@
 ---
 
 ### 👨‍💻 About Me
-I am a **Cloud & DevOps Engineer** passionate about building **scalable, automated, and reliable infrastructure**.  
+I am a **Aspiring Junior SRE & DevOps Engineer** passionate about building **scalable, automated, and reliable infrastructure**.  
 I focus on **cloud platforms, container orchestration, CI/CD pipelines, and infrastructure automation**.
 
 ---
