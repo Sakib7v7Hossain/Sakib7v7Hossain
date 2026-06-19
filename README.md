@@ -9,7 +9,7 @@ Flutter Developer | AWS Security Engineer | SaaS Founder
 - ☁️ AWS Security Architect portfolio (in progress)
 
 ## 🛠️ Tech Stack
-Flutter • Dart • Firebase • React • Spring Boot
+Flutter • Dart • Firebase • React • Spring Boot  
 AWS • Terraform • Docker • ECS Fargate • DevSecOps
 
 ## 📊 AWS Security Projects  
