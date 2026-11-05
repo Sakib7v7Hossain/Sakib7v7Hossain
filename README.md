@@ -1,260 +1,127 @@
-<div align="center">
+# Sakib Hossain · Services
 
-# Hi 👋, I'm Sakib Hossain
-
-### 🚀 Software Engineer • Mobile Engineer • Cloud Engineer • SaaS Founder
-
-Building production-ready software from **mobile apps** to **cloud infrastructure**.
-
-<p>
-
-<a href="https://fluentmira.com">
-<img src="https://img.shields.io/badge/🌍-FluentMira-7C3AED?style=for-the-badge">
-</a>
-
-<a href="https://phictly.com">
-<img src="https://img.shields.io/badge/📚-Phictly-4285F4?style=for-the-badge">
-</a>
-
-</p>
-
-<p>
-
-<img src="https://komarev.com/ghpvc/?username=xsakib964&label=Profile%20Views&color=7c3aed&style=for-the-badge"/>
-
-</p>
-
-</div>
+> I'm a software engineer who builds products people love, from design to development to deployment to production.
+> Since 2020: mobile apps, backend systems, cloud infrastructure and SaaS products.
+> Based in Dhaka, working worldwide.
 
 ---
 
-# 👨‍💻 About Me
+## 1. Restaurant websites
 
-I'm a Software Engineer passionate about building products that people love.
+Websites that let guests taste your restaurant before they arrive.
 
-Since **2020**, I've been developing mobile applications, backend systems, cloud infrastructure, and SaaS products.
+- Cinematic, fast-loading websites that match your brand
+- Interactive 3D menus
+- Live table reservations with email confirmations
+- Multilingual pages (for example English, Spanish, Bengali)
+- Owner-editable menu, hours and photos, with no developer needed
+- Google Maps, Instagram and delivery-app links
+- SEO and mobile-first design, so guests find you and book from their phones
 
-I enjoy taking an idea from **design → development → deployment → production**.
-
----
-
-# 🚀 Featured Products  
-### Fluent Mira: AI-powered Multi Language Learning Platform
-🌐 FluentMira: [Visit Website](https://www.fluentmira.com/)
-
-### Built with:  
-Flutter • React • Vite • TailwindCSS • Firebase • Node.js • Vercel  
+**Best for:** restaurants, cafés, bakeries and cloud kitchens.
 
 ---
 
-## 📚 Phictly  
-Educational Social Platform featured on:
+## 2. EdTech platforms
 
-✅ TechCrunch  
-✅ NBC  
-✅ CBS  
-✅ ABC  
+Learning products that keep students coming back.
 
-🌐 Phictly: [Visit Website](https://phictly.com)  
-📱 Google Play: [View](https://play.google.com/store/apps/details?id=com.phictly.app&hl=en)  
-🍎 App Store: [View](https://apps.apple.com/in/app/phictly-book-tv-clubs/id6753308823)  
+- Course and lesson platforms with progress tracking
+- Language-learning and multilingual experiences
+- Interactive lessons: quizzes, flashcards, speaking practice
+- AI tutor and conversation features
+- Student and teacher dashboards
+- Payments, subscriptions and certificates
 
-### My Contributions
+**Proof:** I founded [Fluent Mira](https://www.fluentmira.com/), an AI-powered multi-language learning platform, and built the Flutter app for [Phictly](https://phictly.com/), an educational social platform featured on TechCrunch, NBC, CBS and ABC.
 
-- 📱 Developed and maintained the Flutter mobile application.
-- 🤝 Collaborated directly with the client from project planning to production release.
-- 📋 Managed feature planning and project workflow using **Trello**.
-- 💬 Gathered requirements, discussed features, and provided technical solutions.
-- 💰 Participated in project estimation and pricing discussions.
-- 🔌 Integrated REST APIs, Firebase, authentication, and push notifications.
-- 🧪 Implemented testing and fixed production issues.
-- 🚀 Published and maintained the application on Google Play and the Apple App Store.
-- 🎯 Worked closely with the client to deliver a product aligned with their vision.
+**Best for:** schools, tutors, language academies and online course creators.
 
 ---
 
-## 📱 Algorithm VA
+## 3. Mobile apps (Flutter)
 
-Android application developed, published on Google Play and later acquired.
+One codebase. Android and iOS. Built for your business.
 
----
+- Customer apps: ordering, bookings, loyalty and push notifications
+- Staff and owner apps: orders, inventory and reports
+- Learning apps for EdTech products
+- REST API, Firebase, authentication and push notification integration
+- Testing (widget and integration) and production bug fixing
+- Publishing to Google Play and the Apple App Store, and maintenance after launch
 
-# 🏆 Highlights
+**Proof:** professional Flutter developer, building Android apps since 2020. I've published on both stores and built and sold my own app (Algorithm VA, acquired).
 
-✔ Android Development since 2020
-
-✔ Professional Flutter Developer
-
-✔ 17+ Software Projects
-
-✔ Published on Google Play & App Store
-
-✔ Built & Sold Own Mobile App
-
-✔ Founder of Fluent Mira
-
-✔ Spring Boot & Node.js Backend
-
-✔ AWS Cloud Projects
-
-✔ Docker & Terraform
-
-✔ GitHub Actions CI/CD
-
-✔ Widget Testing
-
-✔ Integration Testing
-
-✔ Firebase
-
-✔ REST APIs
-
-✔ Technical Writer on Medium
-
-✔ ACM ICPC Participant
-
-✔ Competitive Programmer
+**Best for:** restaurants that want their own ordering app, education startups, and small businesses that need a mobile presence.
 
 ---
 
-# 🛠 Tech Stack
+## Also available
 
-### 📱 Mobile
-
-Flutter
-
-Dart
-
-Android
-
-Firebase
-
-BLoC
-
-GetX
-
-REST APIs
+- **Backend:** Spring Boot, Node.js and Firebase
+- **Cloud and DevOps:** AWS, Docker, Terraform and GitHub Actions CI/CD
 
 ---
 
-### ☁ Cloud & DevOps
+## Featured work
 
-AWS
+| Product | What it is | Links |
+| --- | --- | --- |
+| **Fluent Mira** | AI-powered multi-language learning platform (founder). Flutter, React, Vite, TailwindCSS, Firebase, Node.js, Vercel | [Website](https://www.fluentmira.com/) |
+| **Phictly** | Educational social platform, featured on TechCrunch, NBC, CBS and ABC. I developed and maintained the Flutter app, from planning to production release | [Website](https://phictly.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.phictly.app&hl=en) · [App Store](https://apps.apple.com/in/app/phictly-book-tv-clubs/id6753308823) |
+| **Algorithm VA** | Android app, published on Google Play and later acquired | |
 
-Terraform
+### What I did on Phictly
 
-Docker
-
-GitHub Actions
-
-CI/CD
-
-Linux
-
-Bash
-
----
-
-### 💻 Backend
-
-Spring Boot
-
-Node.js
-
-Firebase
+- Developed and maintained the Flutter mobile app
+- Worked directly with the client from project planning to production release
+- Gathered requirements, discussed features and provided technical solutions
+- Took part in project estimation and pricing discussions
+- Integrated REST APIs, Firebase, authentication and push notifications
+- Wrote tests and fixed production issues
+- Published and maintained the app on Google Play and the App Store
 
 ---
 
-### 🌐 Frontend
+## Why work with me
 
-React
+- Android development since 2020
+- 17+ software projects
+- Published on Google Play and the App Store
+- Built and sold my own mobile app
+- Founder of Fluent Mira
+- Writes technical articles on Medium
+- 27K+ people reached on Stack Overflow (2 gold, 5 silver and 16 bronze badges)
 
-TailwindCSS
+## Tech stack
 
-Vite
-
----
-
-# 📈 GitHub Stats
-
-(Add GitHub Stats Cards)
-
----
-
-# ✍ Latest Articles
-
-📝 Terraform Multi Environment Infrastructure
-
-📝 Dockerized Web App on AWS ECS Fargate
-
-📝 Terraform IAM Automation
-
-📝 Apache Web Server on AWS EC2
-
-Read more
-
-➡ https://medium.com/@xsakib964
+| Area | Tools |
+| --- | --- |
+| Mobile | Flutter, Dart, Android, Firebase, BLoC, GetX, REST APIs |
+| Backend | Spring Boot, Node.js, Firebase |
+| Frontend | React, Vite, TailwindCSS |
+| Cloud and DevOps | AWS, Terraform, Docker, GitHub Actions, CI/CD, Linux, Bash |
 
 ---
 
-# 🏅 Competitive Programming
+## How we work
 
-🏆 ACM ICPC
-
-💻 LeetCode
-
-💻 HackerRank
-
-💻 CodeChef
-
-💻 Codeforces
+1. **Talk:** you tell me about your business and goals.
+2. **Plan:** scope, timeline and a clear quote.
+3. **Design:** a preview you can react to before anything is built.
+4. **Build:** regular updates, so you see progress.
+5. **Launch and support:** go live, then I stay on for fixes and improvements.
 
 ---
 
-# 💬 Community
+## Contact
 
-Stack Overflow
+- Email: xsakib964@gmail.com
+- LinkedIn: https://linkedin.com/in/sakibxhossain
+- GitHub: https://github.com/Sakib7v7Hossain
+- Medium: https://medium.com/@xsakib964
+- Stack Overflow: https://stackoverflow.com/users/17184390/sakib-x-hossain
 
-⭐ 27K+ People Reached
-
-🥇 2 Gold Badges
-
-🥈 5 Silver Badges
-
-🥉 16 Bronze Badges
+*Building software that scales from mobile devices to the cloud.*
 
 ---
-
-# 🌐 Let's Connect
-
-💼 LinkedIn
-
-https://linkedin.com/in/sakibxhossain
-
-📝 Medium
-
-https://medium.com/@xsakib964
-
-💻 StackOverflow
-
-https://stackoverflow.com/users/17184390/sakib-x-hossain
-
-🧩 LeetCode
-
-https://leetcode.com/u/xsakib964
-
-🏆 HackerRank
-
-https://www.hackerrank.com/profile/X_x_Sakib_x_X
-
-🍴 CodeChef
-
-https://www.codechef.com/users/sakib_x_hossin
-
-⚔ Codeforces
-
-https://codeforces.com/profile/_X_x_Sakib_x_X_
-
----
-
-> **"Building software that scales from mobile devices to the cloud."**
