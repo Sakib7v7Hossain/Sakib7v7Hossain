@@ -2,7 +2,7 @@
 
 Software and DevOps engineer in Dhaka, Bangladesh, moving into cloud and AI-agent security.
 
-I started as a Flutter developer in 2020, moved into cloud and DevOps engineering, and now spend my time on cloud security, networking in depth, and security for AI agents.
+I started as a Android developer in 2020, moved into cloud and DevOps engineering, and now spend my time on cloud security, networking in depth, and security for AI agents.
 
 ---
 
