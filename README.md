@@ -1,127 +1,99 @@
-# Sakib Hossain · Services
+# Sakib Hossain
 
-> I'm a software engineer who builds products people love, from design to development to deployment to production.
-> Since 2020: mobile apps, backend systems, cloud infrastructure and SaaS products.
-> Based in Dhaka, working worldwide.
+Software and DevOps engineer in Dhaka, Bangladesh, moving into cloud and AI-agent security.
 
----
-
-## 1. Restaurant websites
-
-Websites that let guests taste your restaurant before they arrive.
-
-- Cinematic, fast-loading websites that match your brand
-- Interactive 3D menus
-- Live table reservations with email confirmations
-- Multilingual pages (for example English, Spanish, Bengali)
-- Owner-editable menu, hours and photos, with no developer needed
-- Google Maps, Instagram and delivery-app links
-- SEO and mobile-first design, so guests find you and book from their phones
-
-**Best for:** restaurants, cafés, bakeries and cloud kitchens.
+I started as a Flutter developer in 2020, moved into cloud and DevOps engineering, and now spend my time on cloud security, networking in depth, and security for AI agents.
 
 ---
 
-## 2. EdTech platforms
+## Security and research
 
-Learning products that keep students coming back.
+### AgentTrap: a guard for AI-agent tool calls
 
-- Course and lesson platforms with progress tracking
-- Language-learning and multilingual experiences
-- Interactive lessons: quizzes, flashcards, speaking practice
-- AI tutor and conversation features
-- Student and teacher dashboards
-- Payments, subscriptions and certificates
+A decoy-first, tamper-evident guard that sits at the tool-call boundary of an AI agent, built as a security extension for NLIP (ECMA-430/434). It decides only from the call, earlier session state and a written policy, with no model in the decision path.
 
-**Proof:** I founded [Fluent Mira](https://www.fluentmira.com/), an AI-powered multi-language learning platform, and built the Flutter app for [Phictly](https://phictly.com/), an educational social platform featured on TechCrunch, NBC, CBS and ABC.
+- Decoy tools and objects as tripwires, taint tracking after untrusted reads, an egress allowlist, secret tracking and an output check
+- Allow / warn / block decisions, an append-only hash-chained log, and an HTML incident report generated from that log
+- 81-scenario benchmark against four baselines, plus adaptive attackers. Results include the misses and false positives, and the limits are documented
+- Python, 27 tests, Apache-2.0
+- Status: prepared as an entry for the NDSS SafeOSE '27 AI Security Hackathon. Agents in the benchmark are scripted; a harness for running a live model is included but live results are not claimed yet
 
-**Best for:** schools, tutors, language academies and online course creators.
+Code and demo video: *link to be added once the repository is public.*
 
----
+### LLM-based honeypots and attacker behaviour reconstruction
 
-## 3. Mobile apps (Flutter)
+Academic research project on web/API honeypots driven by language models and on reconstructing attacker behaviour from their sessions.
 
-One codebase. Android and iOS. Built for your business.
-
-- Customer apps: ordering, bookings, loyalty and push notifications
-- Staff and owner apps: orders, inventory and reports
-- Learning apps for EdTech products
-- REST API, Firebase, authentication and push notification integration
-- Testing (widget and integration) and production bug fixing
-- Publishing to Google Play and the Apple App Store, and maintenance after launch
-
-**Proof:** professional Flutter developer, building Android apps since 2020. I've published on both stores and built and sold my own app (Algorithm VA, acquired).
-
-**Best for:** restaurants that want their own ordering app, education startups, and small businesses that need a mobile presence.
+Status: in progress. No public code or paper yet.
 
 ---
 
-## Also available
+## Learning and tools I build
 
-- **Backend:** Spring Boot, Node.js and Firebase
-- **Cloud and DevOps:** AWS, Docker, Terraform and GitHub Actions CI/CD
+### CloudSketch
+
+A diagramming canvas for learning AWS, networking and DevOps, with drill-down diagrams (a block can open into its own diagram), terminal and laptop-part blocks, notes and live rooms. React, @xyflow/react, Firebase.
+
+[Open the app](https://cloudsketch-alpha.vercel.app/app)
+
+### Networking course videos
+
+An 11-episode series that explains networking on one real scenario: a laptop joining Wi-Fi and loading a page, with real IPs, commands and packets.
 
 ---
 
-## Featured work
+## Product and mobile work
 
-| Product | What it is | Links |
-| --- | --- | --- |
-| **Fluent Mira** | AI-powered multi-language learning platform (founder). Flutter, React, Vite, TailwindCSS, Firebase, Node.js, Vercel | [Website](https://www.fluentmira.com/) |
-| **Phictly** | Educational social platform, featured on TechCrunch, NBC, CBS and ABC. I developed and maintained the Flutter app, from planning to production release | [Website](https://phictly.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.phictly.app&hl=en) · [App Store](https://apps.apple.com/in/app/phictly-book-tv-clubs/id6753308823) |
-| **Algorithm VA** | Android app, published on Google Play and later acquired | |
+### Fluent Mira (founder)
 
-### What I did on Phictly
+AI-powered multi-language learning platform. Flutter, React, Vite, TailwindCSS, Firebase, Node.js, Vercel.
 
-- Developed and maintained the Flutter mobile app
-- Worked directly with the client from project planning to production release
-- Gathered requirements, discussed features and provided technical solutions
-- Took part in project estimation and pricing discussions
+[Website](https://www.fluentmira.com/)
+
+### Phictly (Flutter developer)
+
+Educational social platform. I developed and maintained the Flutter mobile app from planning to production release.
+
 - Integrated REST APIs, Firebase, authentication and push notifications
 - Wrote tests and fixed production issues
 - Published and maintained the app on Google Play and the App Store
 
+[Website](https://phictly.com/) · [Google Play](https://play.google.com/store/apps/details?id=com.phictly.app&hl=en) · [App Store](https://apps.apple.com/in/app/phictly-book-tv-clubs/id6753308823)
+
+### Tasbih
+
+A private, offline dhikr counter and daily dua tracker for Android. No internet permission, no account, no data collected. English, Bangla and Turkish.
+
+[Download](https://github.com/Sakib7v7Hossain/tasbih/releases/latest)
+
+### Algorithm VA
+
+Android app I published on Google Play.
+
 ---
 
-## Why work with me
-
-- Android development since 2020
-- 17+ software projects
-- Published on Google Play and the App Store
-- Built and sold my own mobile app
-- Founder of Fluent Mira
-- Writes technical articles on Medium
-- 27K+ people reached on Stack Overflow (2 gold, 5 silver and 16 bronze badges)
-
-## Tech stack
+## Skills
 
 | Area | Tools |
 | --- | --- |
+| Cloud and DevOps | AWS, Terraform, Docker, GitHub Actions, CI/CD, Linux, Bash |
+| Security | Cloud security fundamentals, networking, AI-agent tool-call security, honeypots |
 | Mobile | Flutter, Dart, Android, Firebase, BLoC, GetX, REST APIs |
 | Backend | Spring Boot, Node.js, Firebase |
 | Frontend | React, Vite, TailwindCSS |
-| Cloud and DevOps | AWS, Terraform, Docker, GitHub Actions, CI/CD, Linux, Bash |
+| Languages | Python, Dart, JavaScript/TypeScript, Java |
+
+## Community
+
+- Technical articles on Medium
+- Stack Overflow: 27K+ people reached, with 2 gold, 5 silver and 16 bronze badges
 
 ---
 
-## How we work
+## Links
 
-1. **Talk:** you tell me about your business and goals.
-2. **Plan:** scope, timeline and a clear quote.
-3. **Design:** a preview you can react to before anything is built.
-4. **Build:** regular updates, so you see progress.
-5. **Launch and support:** go live, then I stay on for fixes and improvements.
-
----
-
-## Contact
-
-- Email: xsakib964@gmail.com
-- LinkedIn: https://linkedin.com/in/sakibxhossain
 - GitHub: https://github.com/Sakib7v7Hossain
+- LinkedIn: https://linkedin.com/in/sakibxhossain
 - Medium: https://medium.com/@xsakib964
 - Stack Overflow: https://stackoverflow.com/users/17184390/sakib-x-hossain
-
-*Building software that scales from mobile devices to the cloud.*
-
----
+- Email: xsakib964@gmail.com
