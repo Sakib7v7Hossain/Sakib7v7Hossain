@@ -12,13 +12,14 @@ I started as a Android developer in 2020, moved into cloud and DevOps engineerin
 
 A decoy-first, tamper-evident guard that sits at the tool-call boundary of an AI agent, built as a security extension for NLIP (ECMA-430/434). It decides only from the call, earlier session state and a written policy, with no model in the decision path.
 
-- Decoy tools and objects as tripwires, taint tracking after untrusted reads, an egress allowlist, secret tracking and an output check
+- Decoy tools and objects as tripwires, taint tracking after untrusted reads, an egress allowlist, secret tracking (including decoding encoded exfiltration) and an output check
 - Allow / warn / block decisions, an append-only hash-chained log, and an HTML incident report generated from that log
-- 81-scenario benchmark against four baselines, plus adaptive attackers. Results include the misses and false positives, and the limits are documented
-- Python, 27 tests, Apache-2.0
-- Status: prepared as an entry for the NDSS SafeOSE '27 AI Security Hackathon. Agents in the benchmark are scripted; a harness for running a live model is included but live results are not claimed yet
+- 81-scenario benchmark against four baselines (stops 43 of 45 attacks vs 31 for an allowlist), ablations, and adaptive attackers; a replay of all 1,054 InjecAgent cases; and a live-model evaluation where a real model (gpt-4.1-mini) acts as the agent and as an adaptive attacker
+- The adaptive LLM attacker found two real bypasses, which drove concrete fixes and raised coverage; misses, false positives and limits are documented, with confidence intervals on every sampled number
+- Python, 38 tests, Apache-2.0
+- Status: entry for the NDSS SafeOSE '27 AI Security Hackathon (Area 03). Idea and research design are mine; I used Claude to build the prototype and harness quickly and verified every result on my own machine
 
-Code and demo video: *link to be added once the repository is public.*
+Code and demo: https://github.com/Sakib7v7Hossain/agenttrap
 
 ### LLM-based honeypots and attacker behaviour reconstruction
 
